@@ -1,0 +1,1 @@
+Welcome to my project! In this project, I'll be following the Odin Project assignment 'recipes'. I'll be demonstrating that I've learned how to set up git, create files and folders using terminal within VSC, and use basic HTML.
